@@ -1,8 +1,8 @@
 Authors:
-    Itzhak Rahamim - 312202351
-    Gil Ben Hamo - 315744557
-    Yovel Aloni - 319122842
-
+    Itzhak Rahamim
+    Gil Ben Hamo
+    Yovel Aloni 
+    
 Description:
     This project is a simple client server connection using ECDH key exchange and RSA encryption.
     Socket:
